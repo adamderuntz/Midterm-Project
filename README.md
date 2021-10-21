@@ -4,4 +4,4 @@
 - I go to the University of Missouri
 - I am majoring in Computer Science 
 
-[Things I Like](Things-I-Like)
+[Things I Like](Things-I-Like.md)
