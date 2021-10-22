@@ -8,3 +8,5 @@ I have learned so many lessons through cheer that I will keep with me for the re
 I will forever be thankful for cheer and everything it has brought to my life.
 
  ![Alt text](cheer picture.jpeg)
+
+ Here is where it all started at [Timberland Cheer](https://sites.google.com/wsdr4.org/timberlandcheer) 
