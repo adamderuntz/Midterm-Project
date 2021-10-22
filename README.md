@@ -4,6 +4,6 @@
 - I go to the University of Missouri
 - I am majoring in Computer Science 
 
-Learn some more about the [things I like](Things-I-Like.md), or you can learn about [my familly](My-Family.md).
+Learn some more about the [things I like](doc/Things-I-Like.md), or you can learn about [my familly](doc/My-Family.md).
 
-Why does [cheer](Cheer.md) mean so much to me?
+Why does [cheer](doc/Cheer.md) mean so much to me?
