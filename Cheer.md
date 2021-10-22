@@ -7,6 +7,6 @@ I cheered my sophmore thought senior year in high school and even made it on the
 I have learned so many lessons through cheer that I will keep with me for the rest of my life. 
 I will forever be thankful for cheer and everything it has brought to my life.
 
- [![Mizzou Cheer](cheer picture.jpeg)]
+ [![Mizzou Cheer](cheer-picture.jpeg)]
 
  Here is where it all started at on my high school cheerleading team, [Timberland Cheer](https://sites.google.com/wsdr4.org/timberlandcheer) 
