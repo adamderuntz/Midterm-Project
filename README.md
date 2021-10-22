@@ -10,5 +10,3 @@ Why does [cheer](doc/Cheer.md) mean so much to me?
 
 As a computer science major I have had many expierences using code. 
 Here is some of my [coding](doc/Code.md)!
-
- ![Alt text](cheer picture.jpeg)
