@@ -4,3 +4,5 @@
 - Cheerleading 
 - Going outside 
 - Watching netflix
+- Eating everything in sight
+- Coding 
