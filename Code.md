@@ -1,29 +1,56 @@
 ## Some Of My Code
 
-	<!DOCTYPE html>
-	<html>
-	<head>
-	<meta charset="UTF-8">
-	<title>Fizz Buzz</title>
-	<script>
+from math import pi
 
-	function fizzbuzz() {
-		var display = document.getElementById('display');
-		var displayHTML = "";
-		for (i = 0; i < 100; i++) {
-			displayHTML += "<p>" + i + "</p>";
-		}
-		display.innerHTML = displayHTML;
-	}
+def get_radius_from_user():
+    while (True):
+        try:
+            radius = float(input("What is the radius: "))
+            if (radius < 0):
+                print("Radius must be a positive number.")
+                continue
+            break
+        except ValueError:
+            print("Only numbers may be entered.")
 
-	</script>
+    return radius
 
-	</head>
+def get_height_from_user():
+    while (True):
+        try:
+            height = float(input("What is the height: "))
+            if (height < 0):
+                print("Height must be a positive number.")
+                continue
+            break
+        except ValueError:
+            print("Only numbers may be entered.")
 
-	<body onload="fizzbuzz()">
-	<div id="display">
+    return height
 
-	</div>
-	</body>
+def calculate_cylinder_volume(radius,height):
+    volume = pi * radius ** 2 * height
+    return volume
 
-	</html>
+def generate_report(radius,height,volume):
+    print("A right cylinder has a radius of", radius, "and the height is", height, "and has a volume of",volume)
+
+def main():
+        radius = get_radius_from_user()
+        height = get_height_from_user()
+        volume = calculate_cylinder_volume(radius, height)
+        generate_report(radius,height,volume)
+
+do_calculation = True
+while (do_calculation):
+    radius = get_radius_from_user()
+    height = get_height_from_user()
+    volume = calculate_cylinder_volume(radius, height)
+    generate_report(radius,height,volume)
+    another_calculation = input("Do you want to preform another calculation? (y/n) ")
+    if (another_calculation != "y"):
+        do_calculation = False
+
+
+main()
+
