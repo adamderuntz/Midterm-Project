@@ -8,4 +8,5 @@ Learn some more about the [things I like](doc/Things-I-Like.md), or you can lear
 
 Why does [cheer](doc/Cheer.md) mean so much to me?
 
-As a computer science major I have had many expierences using code. Here is some of my [coding](doc/Code.md)
+As a computer science major I have had many expierences using code. 
+Here is some of my [coding](doc/Code.md)!
