@@ -9,4 +9,4 @@ I will forever be thankful for cheer and everything it has brought to my life.
 
  ![Mizzou Cheer](cheer-picture.jpeg)
 
- Here is where it all started at on my high school cheerleading team, [Timberland Cheer](https://sites.google.com/wsdr4.org/timberlandcheer) 
+ Here is where it all started at on my high school cheerleading team, [Timberland Cheer](https://sites.google.com/wsdr4.org/timberlandcheer).
