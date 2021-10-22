@@ -4,4 +4,4 @@ I grew up in a family of 5. I have one older brother, Erik, and an older sister,
 
 **Second Family**
 
-My best friends family is another family that has a huge impact on my life. They act as my second family. That includes my second parents, Mark and Rachel, and my best friend Ethan and his sister Aubrey. I am always at their house and enjoy spending time with them. 
+My best friends family is another family that has a huge impact on my life. They act as my second family. That includes my second parents, Mark and Rachel, my best friend Ethan and his sister Aubrey. I am always at their house and enjoy spending time with them.
