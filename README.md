@@ -1,5 +1,5 @@
 # Midterm-Project
-**This is a little bit about me!**
+## This is a little bit about me!
 - My name is *Adam DeRuntz*
 - I am a freshman 
 - I go to the University of Missouri
